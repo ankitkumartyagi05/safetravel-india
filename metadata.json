@@ -1,0 +1,8 @@
+{
+  "name": "SafeTravel India",
+  "description": "Real-time road hazard reporting and navigation companion powered by Gemini Live. Report potholes, accidents, and debris using voice or manual input.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
